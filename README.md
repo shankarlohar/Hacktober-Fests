@@ -118,6 +118,15 @@ Now add this follwing code snippet (with your github username where required.) a
 <table>
     <tr>
         <td align="center"><a href="https://github.com/ShankarLohar"><img src="https://avatars.githubusercontent.com/u/74100292?v=4" width="100px;" alt=""/><br /><sub><b>Shankar Lohar</b></sub></td>
-        <!-- Paste your code below -->
+        <td align="center">
+<a href="https://github.com/SOURAV416">
+    <img src="https://avatars.githubusercontent.com/u/76432187?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Sourav Nayek
+        </b>
+    </sub>
+</td>
     </tr>
 </table>
