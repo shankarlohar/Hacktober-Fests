@@ -1,4 +1,4 @@
-# Hactober-Fests
+# Hacktober-Fests
 
 ## Hey everyone! below you can learn to contribute to open source 😊.
 
