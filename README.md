@@ -80,7 +80,7 @@ Open the style.css file and find the mark to this code snippet and change the co
 `Push your code and send a merge request`
 - Step 4: Change navbar color.
 ```bash
-Open the style.css file and find the mark to this code snippet and change the color.
+Open the index.html file and find the mark to this code snippet and change the color.
 ```
 ```bash
 <!-- Change navbar background color here -->
