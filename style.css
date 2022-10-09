@@ -35,7 +35,7 @@ section .section-title {
 
 #team .card {
     border: none;
-    background: #ffffff;
+    background: lightgreen;
 }
 
 .image-flip:hover .backside,
