@@ -8,7 +8,8 @@
 `Anything you feel is cool or weird - Add it! 👌`
 
 
-- Step 0: [Watch this short video tutorial to get and idea about git and github.](https://www.youtube.com/watch?v=8Dd7KRpKeaE&ab_channel=CoderCoder) 
+- Step 0: [Watch this short video tutorial to get and idea about git and github.](https://www.youtube.com/watch?v=8Dd7KRpKeaE&ab_channel=CoderCoder)
+           or read [FIRST-CONTRIBUTIONS](https://github.com/firstcontributions/first-contributions)
 - Step 1: Fork [👨‍💻](https://github.com/ShankarLohar/Hactober-Fests/fork) the repository by clicking the top right fork button on github or the emoji in this line.
 - Step 2: Add your name card on the website.
 ```bash
@@ -107,8 +108,12 @@ Now add this follwing code snippet (with your github username where required.) a
 - Additional Step: You can add something to the website of your own! 😊
 `You know now how it works. 😉`
 - Step 6: Check your [HACKTOBERFEST](https://hacktoberfest.com/) page!
+
+## START CONTRIBUTING 👐
+- List of beginner repositories: [UP-FOR-GRABS.NET](https://up-for-grabs.net/#/)
+
     
-## Thank you for Contributing ❤!
+## Thank you ❤!
 
 <table>
     <tr>
