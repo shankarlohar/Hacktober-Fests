@@ -60,7 +60,7 @@ section .section-title {
   -webkit-transition: 1s;
   -webkit-transform-style: preserve-3d;
   -ms-transition: 1s;
-  -moz-transition: 1s;
+  -moz-transition: 1.1s;
   -moz-transform: perspective(1000px);
   -moz-transform-style: preserve-3d;
   -ms-transform-style: preserve-3d;
