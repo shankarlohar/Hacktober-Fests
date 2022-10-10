@@ -135,7 +135,7 @@ Now add this follwing code snippet (with your github username where required.) a
     <br />
     <sub>
         <b>
-            [YOUR NAME HERE]
+            Rudransh Khandelwal
         </b>
     </sub>
 </td>
