@@ -80,7 +80,7 @@ Open the style.css file and find the mark to this code snippet and change the co
 `Push your code and send a merge request`
 - Step 4: Change navbar color.
 ```bash
-Open the style.css file and find the mark to this code snippet and change the color.
+Open the index.html file and find the mark to this code snippet and change the color.
 ```
 ```bash
 <!-- Change navbar background color here -->
@@ -118,6 +118,15 @@ Now add this follwing code snippet (with your github username where required.) a
 <table>
     <tr>
         <td align="center"><a href="https://github.com/ShankarLohar"><img src="https://avatars.githubusercontent.com/u/74100292?v=4" width="100px;" alt=""/><br /><sub><b>Shankar Lohar</b></sub></td>
-        <!-- Paste your code below -->
+        <td align="center">
+<a href="https://github.com/SOURAV416">
+    <img src="https://avatars.githubusercontent.com/u/76432187?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Sourav Nayek
+        </b>
+    </sub>
+</td>
     </tr>
 </table>
