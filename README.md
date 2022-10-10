@@ -64,6 +64,7 @@ Now add this follwing code snippet. (with your github username where required)
                     </div>
                 </div>
             </div>
+            
             <!-- ./Team member -->
 ```
 `Save HTML file, Push your code to your forked repository and send a merge request`
@@ -128,5 +129,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+<td align="center">
+<a href="https://github.com/ruds18">
+    <img src="https://avatars.githubusercontent.com/u/74107790?s=400&u=ee9472f6552ee2b64ffe38d0a2655de079cf38f2&v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            [YOUR NAME HERE]
+        </b>
+    </sub>
+</td>
     </tr>
+    
 </table>
