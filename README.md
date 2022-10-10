@@ -139,6 +139,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+           <td align="center">
+<a href="https://github.com/VAIBHAVSINGHRAJPUT">
+    <img src="https://source.boomplaymusic.com/group10/M00/09/01/e8720a49f8a3497facf8a86d7813c374_200_200.jpg" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+        Vaibhav Rajput
+        </b>
+    </sub>
+</td>
     </tr>
     
 </table>
