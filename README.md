@@ -1,6 +1,7 @@
 # Hacktober-Fests
 
 ## Hey everyone! below you can learn to contribute to open source 😊.
+## Try improving this Java Snake Game if you already know how to contribute! click -> [🐍](https://github.com/ShankarLohar/snakegame)
 
 ![image](https://user-images.githubusercontent.com/74100292/194773995-a1fab4a5-5847-4553-9cbb-65d0006619f9.png)
 
