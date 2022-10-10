@@ -145,7 +145,7 @@ Now add this follwing code snippet (with your github username where required.) a
     <br />
     <sub>
         <b>
-        Vaibhav Rajput
+        VaibhavRajput
         </b>
     </sub>
 </td>
