@@ -4,18 +4,19 @@
 
 ![image](https://user-images.githubusercontent.com/74100292/194773995-a1fab4a5-5847-4553-9cbb-65d0006619f9.png)
 
-` Add your card to the website. Or add a fun feature... `
+`Add your card to the website. Or add a fun feature...`
 `Anything you feel is cool or weird - Add it! 👌`
 
-
 - Step 0: [Watch this short video tutorial to get and idea about git and github.](https://www.youtube.com/watch?v=8Dd7KRpKeaE&ab_channel=CoderCoder)
-           or read [FIRST-CONTRIBUTIONS](https://github.com/firstcontributions/first-contributions)
+  or read [FIRST-CONTRIBUTIONS](https://github.com/firstcontributions/first-contributions)
 - Step 1: Fork [👨‍💻](https://github.com/ShankarLohar/Hactober-Fests/fork) the repository by clicking the top right fork button on github or the emoji in this line.
 - Step 2: Add your name card on the website.
+
 ```bash
 Open the index.html file and scroll to the bottom to reach the mark.
 Now add this follwing code snippet. (with your github username where required)
 ```
+
 ```bash
 <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
@@ -64,35 +65,47 @@ Now add this follwing code snippet. (with your github username where required)
                     </div>
                 </div>
             </div>
-            
+
             <!-- ./Team member -->
 ```
+
 `Save HTML file, Push your code to your forked repository and send a merge request`
+
 - Step 3: Change the background Color of the webpage
+
 ```bash
 Open the style.css file and find the mark to this code snippet and change the color.
 ```
+
 ```bash
 #team {
     /* Change this tag color to your choice */
     background: [YOUR COLOR HEX CODE OR NAME] !important;
 }
 ```
+
 `Push your code and send a merge request`
+
 - Step 4: Change navbar color.
+
 ```bash
 Open the index.html(changed) file and find the mark to this code snippet and change the color.
 ```
+
 ```bash
 <!-- Change navbar background color here -->
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: [YOUR COLOR HERE];">
 ```
+
 `Push your code and send a merge request`
+
 - Step 5: Add your name to the contributers list.
+
 ```bash
 Open the README.md file and scroll to the bottom to contributers mentions.
-Now add this follwing code snippet (with your github username where required.) at the mark. 
+Now add this follwing code snippet (with your github username where required.) at the mark.
 ```
+
 ```bash
 <td align="center">
 <a href="https://github.com/[YOUR GITHUB USERNAME HERE]">
@@ -105,15 +118,17 @@ Now add this follwing code snippet (with your github username where required.) a
     </sub>
 </td>
 ```
+
 `Save your file Push your code and send a merge request`
+
 - Additional Step: You can add something to the website of your own! 😊
-`You know now how it works. 😉`
+  `You know now how it works. 😉`
 - Step 6: Check your [HACKTOBERFEST](https://hacktoberfest.com/) page!
 
 ## START CONTRIBUTING 👐
+
 - List of beginner repositories: [UP-FOR-GRABS.NET](https://up-for-grabs.net/#/)
 
-    
 ## Thank you ❤!
 
 <table>
@@ -142,3 +157,14 @@ Now add this follwing code snippet (with your github username where required.) a
     </tr>
     
 </table>
+
+<td align="center">
+<a href="https://github.com/Tanuj3662">
+    <img src="https://avatars.githubusercontent.com/u/90057479?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Tanuj Kalonia
+        </b>
+    </sub>
+</td>
