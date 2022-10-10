@@ -188,6 +188,19 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
+<td align="center">
+<a href="https://github.com/muji-asif">
+    <img src="https://avatars.githubusercontent.com/u/115453222?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+           MUJJI-ASIF
+        </b>
+    </sub>
+</td>
+
 <!-- Add your snippet here -->
 </tr>
+
 </table>
