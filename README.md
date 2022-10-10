@@ -155,7 +155,6 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-    </tr>
 
 <td align="center">
 <a href="https://github.com/ruds18">
@@ -200,5 +199,8 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
+<!-- Add your snippet here -->
+</tr>
 
 </table>
