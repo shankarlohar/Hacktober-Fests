@@ -134,7 +134,8 @@ Now add this follwing code snippet (with your github username where required.) a
 <table>
     <tr>
         <td align="center"><a href="https://github.com/ShankarLohar"><img src="https://avatars.githubusercontent.com/u/74100292?v=4" width="100px;" alt=""/><br /><sub><b>Shankar Lohar</b></sub></td>
-        <td align="center">
+        
+<td align="center">
 <a href="https://github.com/SOURAV416">
     <img src="https://avatars.githubusercontent.com/u/76432187?v=4" width="100px;" alt=""/>
     <br />
@@ -144,6 +145,7 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
 <td align="center">
 <a href="https://github.com/ruds18">
     <img src="https://avatars.githubusercontent.com/u/74107790?s=400&u=ee9472f6552ee2b64ffe38d0a2655de079cf38f2&v=4" width="100px;" alt=""/>
@@ -154,7 +156,8 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-           <td align="center">
+
+<td align="center">
 <a href="https://github.com/VAIBHAVSINGHRAJPUT">
     <img src="https://source.boomplaymusic.com/group10/M00/09/01/e8720a49f8a3497facf8a86d7813c374_200_200.jpg" width="100px;" alt=""/>
     <br />
@@ -164,9 +167,6 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-    </tr>
-    
-</table>
 
 <td align="center">
 <a href="https://github.com/Tanuj3662">
@@ -178,3 +178,5 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
+</table>
