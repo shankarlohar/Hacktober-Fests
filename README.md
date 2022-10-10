@@ -145,6 +145,17 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+<td align="center">
+<a href="https://github.com/HarshChhikara">
+    <img src="https://avatars.githubusercontent.com/u/57714331?s=400&u=3b0d068f03a8a8fe019c67627d3f3929f34dd891&v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Harsh Chhikara
+        </b>
+    </sub>
+</td>
+    </tr>
 
 <td align="center">
 <a href="https://github.com/ruds18">
