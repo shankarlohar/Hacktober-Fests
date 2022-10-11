@@ -131,4 +131,25 @@ section .section-title {
   width: 120px;
   height: 120px;
   border-radius: 50%;
+} 
+
+.my-animation{
+  position: relative;
+  animation-name: movenavbarheading;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+}
+@keyframes movenavbarheading {
+  0%   {left:0rem;}
+  10%  {left:20rem;}
+  20%  {left:40rem;}
+  30%  {left:60rem;}
+  40% {left:80rem;}
+  50%   {left:100rem;}
+  60%  {left:80rem;}
+  70%  {left:60rem;}
+  80%  {left:40rem;}
+  90% {left:20rem;}
+  100% {left:0rem;}
+  
 }
