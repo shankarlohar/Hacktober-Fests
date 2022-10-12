@@ -124,6 +124,11 @@ Now add this follwing code snippet (with your github username where required.) a
 
 - Additional Step: You can add something to the website of your own! 😊 or check the issues tab of this repository.
   `You know now how it works. 😉`
+  
+  ![image](https://user-images.githubusercontent.com/74100292/195403113-226ff7f9-0cb2-4105-bd0f-afd7cbd61579.png)
+
+   [Contributer of the login page](https://github.com/sidhrth04)
+  
 - Step 6: Check your [HACKTOBERFEST](https://hacktoberfest.com/) page!
 
 ## START CONTRIBUTING 👐
