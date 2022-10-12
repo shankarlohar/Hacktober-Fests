@@ -10,6 +10,12 @@
 
 }
 
+nav{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
 .btn-primary:hover,
 .btn-primary:focus {
   background-color: #3aafad;
@@ -30,7 +36,8 @@ section {
 
 section .section-title {
   text-align: center;
-  color: #8fdbe1;
+  color: black;
+  font-weight: bold;
   margin-bottom: 50px;
   text-transform: uppercase;
 }
@@ -136,8 +143,10 @@ section .section-title {
 .my-animation{
   position: relative;
   animation-name: movenavbarheading;
-  animation-duration: 7s;
-  animation-iteration-count: infinite;
+  animation-duration: 5s;
+  animation-delay: 1s;
+  animation-iteration-count: 5;
+  animation-direction: reverse;
 }
 @keyframes movenavbarheading {
   0%   {left:0rem;}
