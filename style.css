@@ -1,19 +1,63 @@
 /* FontAwesome for working BootSnippet :> */
 
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 /* You can change the background here. 🎨 */
 #team {
     /* Change this tag color to your choice */
-    background: orange !important;
+    background-color: orange !important;
 
 
 }
 
-nav{
+/* nav{
   background-color: black;
   color: white;
   font-weight: bold;
+} */
+
+/* New Navbar */
+.navbar{
+  background-color: #000000;
+}
+
+.navbar-brand {
+  font-family: 'JetBrains Mono', monospace;
+  color: white;
+}
+
+.navbar-brand:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.button-62 {
+  background-color: initial;
+  background-image: linear-gradient(-180deg, #00D775, #00BD68);
+  border: 0;
+  border-radius: 12px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 2.5;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+
+}
+
+.button-62:hover {
+  background: #00bd68;
 }
 
 .btn-primary:hover,
