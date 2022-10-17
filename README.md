@@ -174,6 +174,17 @@ Now add this follwing code snippet (with your github username where required.) a
 </td>
 
 <td align="center">
+<a href="https://github.com/shubham404-error">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQH7CJ5-uEBnkw/profile-displayphoto-shrink_400_400/0/1662963494688?e=1671667200&v=beta&t=QopetskOKAv5znj_MDqEyc1ma__RU8ZyZWHF9fbnlsw" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Shubham Tejani
+        </b>
+    </sub>
+</td>
+
+<td align="center">
 <a href="https://github.com/VAIBHAVSINGHRAJPUT">
     <img src="https://source.boomplaymusic.com/group10/M00/09/01/e8720a49f8a3497facf8a86d7813c374_200_200.jpg" width="100px;" alt=""/>
     <br />
