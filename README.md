@@ -226,6 +226,18 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-</tr>
+
+<td align="center">
+<a href="https://github.com/JOSEPH-JAISON">
+    <img src="https://avatars.githubusercontent.com/u/97796343?s=400&u=ec579d758ceeef7c43f8ba10882eca2f1decf52f&v=4" width="1000px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Joseph Jaison
+        </b>
+    </sub>
+</td>
+ 
+ </tr>
 
 </table>
