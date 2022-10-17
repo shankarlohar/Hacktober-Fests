@@ -205,7 +205,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-
+<td align="center">
+<a href="https://github.com/Gaurgirl6117">
+    <img src="https://avatars.githubusercontent.com/u/107859829?s=400&u=010905b95cfc03017c023a14ea17b4ed18705ca1&v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            PARINATI GAUR
+        </b>
+    </sub>
+</td>
 <!-- Add your snippet here -->
 <td align="center">
 <a href="https://github.com/Naveen28101">
