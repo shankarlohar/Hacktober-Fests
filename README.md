@@ -194,7 +194,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-
+<td align="center">
+<a href="https://github.com/mchirag2002">
+    <img src="https://avatars.githubusercontent.com/mchirag2002" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Chirag Mathur
+        </b>
+    </sub>
+</td>
 <td align="center">
 <a href="https://github.com/Tanuj3662">
     <img src="https://avatars.githubusercontent.com/u/90057479?v=4" width="100px;" alt=""/>
