@@ -174,6 +174,17 @@ Now add this follwing code snippet (with your github username where required.) a
 </td>
 
 <td align="center">
+<a href="https://github.com/shubham404-error">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQH7CJ5-uEBnkw/profile-displayphoto-shrink_400_400/0/1662963494688?e=1671667200&v=beta&t=QopetskOKAv5znj_MDqEyc1ma__RU8ZyZWHF9fbnlsw" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Shubham Tejani
+        </b>
+    </sub>
+</td>
+
+<td align="center">
 <a href="https://github.com/VAIBHAVSINGHRAJPUT">
     <img src="https://source.boomplaymusic.com/group10/M00/09/01/e8720a49f8a3497facf8a86d7813c374_200_200.jpg" width="100px;" alt=""/>
     <br />
@@ -183,7 +194,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-
+<td align="center">
+<a href="https://github.com/mchirag2002">
+    <img src="https://avatars.githubusercontent.com/mchirag2002" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Chirag Mathur
+        </b>
+    </sub>
+</td>
 <td align="center">
 <a href="https://github.com/Tanuj3662">
     <img src="https://avatars.githubusercontent.com/u/90057479?v=4" width="100px;" alt=""/>
@@ -205,7 +225,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-
+<td align="center">
+<a href="https://github.com/Gaurgirl6117">
+    <img src="https://avatars.githubusercontent.com/u/107859829?s=400&u=010905b95cfc03017c023a14ea17b4ed18705ca1&v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            PARINATI GAUR
+        </b>
+    </sub>
+</td>
 <!-- Add your snippet here -->
 <td align="center">
 <a href="https://github.com/Naveen28101">
@@ -217,6 +246,41 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-</tr>
+
+<td align="center">
+<a href="https://github.com/JOSEPH-JAISON">
+    <img src="https://avatars.githubusercontent.com/u/97796343?s=400&u=ec579d758ceeef7c43f8ba10882eca2f1decf52f&v=4" width="1000px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Joseph Jaison
+        </b>
+    </sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/Anirudh-A-V">
+    <img src="https://avatars.githubusercontent.com/u/76550448?v=4" width="1000px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Anirudh A V
+        </b>
+    </sub>
+</td>
+  
+  <td align="center">
+<a href="https://github.com/aniketsinha2002">
+    <img src="https://avatars.githubusercontent.com/u/97850511?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            ANIKET SINHA
+        </b>
+    </sub>
+</td>
+    
+ 
+ </tr>
 
 </table>

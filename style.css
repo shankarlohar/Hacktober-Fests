@@ -1,19 +1,61 @@
 /* FontAwesome for working BootSnippet :> */
 
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
 
 /* You can change the background here. 🎨 */
 #team {
     /* Change this tag color to your choice */
     background: linear-gradient(to right, #fc5c7d, #6a82fb) !important;
-
-
 }
 
-nav{
+/* nav{
   background-color: black;
   color: white;
   font-weight: bold;
+} */
+
+/* New Navbar */
+.navbar {
+  background-color: #8400ff;
+}
+
+.navbar-brand {
+  font-family: "JetBrains Mono", monospace;
+  color: white;
+}
+
+.navbar-brand:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.button-62 {
+  background-color: initial;
+  background-image: linear-gradient(-180deg, #00d775, #00bd68);
+  border: 0;
+  border-radius: 12px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 2.5;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow 0.2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+}
+
+.button-62:hover {
+  background: #00bd68;
 }
 
 .btn-primary:hover,
@@ -28,6 +70,37 @@ nav{
   color: #fff;
   background-color: #000000;
   border-color: #000000;
+}
+
+.git-txt {
+  position: relative;
+  animation-name: git-ani;
+  animation-duration: 10s;
+  animation-delay: 1s;
+  animation-iteration-count: 3;
+}
+
+@keyframes git-ani {
+  0% {
+    left: 0px;
+    top: 0px;
+  }
+  25% {
+    left: 200px;
+    top: 0px;
+  }
+  50% {
+    left: 0px;
+    top: 0px;
+  }
+  75% {
+    left: -200px;
+    top: 0px;
+  }
+  100% {
+    left: 0px;
+    top: 0px;
+  }
 }
 
 section {
@@ -138,9 +211,9 @@ section .section-title {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-} 
+}
 
-.my-animation{
+.my-animation {
   position: relative;
   animation-name: movenavbarheading;
   animation-duration: 5s;
@@ -149,16 +222,37 @@ section .section-title {
   animation-direction: reverse;
 }
 @keyframes movenavbarheading {
-  0%   {left:0rem;}
-  10%  {left:20rem;}
-  20%  {left:40rem;}
-  30%  {left:60rem;}
-  40% {left:80rem;}
-  50%   {left:100rem;}
-  60%  {left:80rem;}
-  70%  {left:60rem;}
-  80%  {left:40rem;}
-  90% {left:20rem;}
-  100% {left:0rem;}
-  
+  0% {
+    left: 0rem;
+  }
+  10% {
+    left: 20rem;
+  }
+  20% {
+    left: 40rem;
+  }
+  30% {
+    left: 60rem;
+  }
+  40% {
+    left: 80rem;
+  }
+  50% {
+    left: 100rem;
+  }
+  60% {
+    left: 80rem;
+  }
+  70% {
+    left: 60rem;
+  }
+  80% {
+    left: 40rem;
+  }
+  90% {
+    left: 20rem;
+  }
+  100% {
+    left: 0rem;
+  }
 }
