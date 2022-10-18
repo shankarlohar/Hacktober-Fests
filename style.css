@@ -5,8 +5,8 @@
 
 /* You can change the background here. 🎨 */
 #team {
-  /* Change this tag color to your choice */
-  background-color: #e6ccff !important;
+    /* Change this tag color to your choice */
+    background: linear-gradient(to right, #fc5c7d, #6a82fb) !important;
 }
 
 /* nav{
