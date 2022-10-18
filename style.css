@@ -1,9 +1,20 @@
+body{
+  overflow-x: hidden
+}
+
+
+
 /* FontAwesome for working BootSnippet :> */
+
 
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
 
 /* You can change the background here. 🎨 */
+/* body{
+  overflow: hidden;
+} */
+
 #team {
     /* Change this tag color to your choice */
     background: #ddd3d3 !important;
@@ -254,5 +265,41 @@ section .section-title {
   }
   100% {
     left: 0rem;
+  }
+}
+
+
+
+.container-fluid{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+/* ====================
+Responsive code starts
+==================== */
+@media (max-width:747px){
+  .heading{
+    font-size: 15px;
+    animation: step-end;
+
+  }
+
+  .container-fluid{
+    flex-direction: column;
+  }
+
+  .h1{
+    font-size: 20px;
+    animation: step-end;
+  }
+
+
+  .button-62{
+    font-size: 11px;
   }
 }
