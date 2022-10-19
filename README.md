@@ -331,6 +331,17 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+  
+<td align="center">
+<a href="https://github.com/Soumyadip-roy">
+    <img src="https://avatars.githubusercontent.com/u/85121861" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Soumyadip Roy
+        </b>
+    </sub>
+</td>
     
  
  </tr>
