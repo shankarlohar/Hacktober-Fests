@@ -1,6 +1,7 @@
 # Hacktober-Fests
 
 ## Hey everyone! below you can learn to contribute to open source 😊.
+
 ## Try improving this Java Snake Game if you already know how to contribute! click -> [🐍](https://github.com/ShankarLohar/snakegame)
 
 ![image](https://user-images.githubusercontent.com/74100292/194773995-a1fab4a5-5847-4553-9cbb-65d0006619f9.png)
@@ -124,11 +125,11 @@ Now add this follwing code snippet (with your github username where required.) a
 
 - Additional Step: You can add something to the website of your own! 😊 or check the issues tab of this repository.
   `You know now how it works. 😉`
-  
+
   ![image](https://user-images.githubusercontent.com/74100292/195403113-226ff7f9-0cb2-4105-bd0f-afd7cbd61579.png)
 
-   [Contributer of the login page](https://github.com/sidhrth04)
-  
+  [Contributer of the login page](https://github.com/sidhrth04)
+
 - Step 6: Check your [HACKTOBERFEST](https://hacktoberfest.com/) page!
 
 ## START CONTRIBUTING 👐
@@ -332,6 +333,16 @@ Now add this follwing code snippet (with your github username where required.) a
     </sub>
 </td>
     
+<td align="center">
+<a href="https://github.com/aryankashyap7">
+    <img src="https://avatars.githubusercontent.com/u/75727351?" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Aryan Kashyap
+        </b>
+    </sub>
+</td>
  
  </tr>
 
