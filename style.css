@@ -128,7 +128,7 @@ section .section-title {
 
 #team .card {
   border: none;
-  background: rgb(109, 193, 209);
+  background: linear-gradient( to right, rgba(245,70,66,0.75), rgba(36, 103, 170, 0.75) );
 }
 
 .image-flip:hover .backside,
