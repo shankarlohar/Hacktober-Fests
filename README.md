@@ -355,6 +355,17 @@ Now add this follwing code snippet (with your github username where required.) a
     </sub>
 </td>
  
+<td align="center">
+<a href="https://github.com/KHUSHI2107">
+    <img src="https://avatars.githubusercontent.com/u/65617775" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Khushi Gupta
+        </b>
+    </sub>
+</td>
+  
  </tr>
 
 </table>
