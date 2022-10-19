@@ -16,6 +16,14 @@ body::-webkit-scrollbar-thumb {
 }
 
 
+/* HEADER */
+.navbar-brand.hvr-reveal{
+  font-size:2rem;
+}
+.nav-item{
+  font-size:1.5rem;
+  
+}
 /* FontAwesome for working BootSnippet :> */
 
 
