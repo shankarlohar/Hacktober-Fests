@@ -321,6 +321,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td> 
+<td align="center">
+<a href="https://github.com/AmanTiwari19">
+    <img src="https://avatars.githubusercontent.com/u/114856408?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Aman Tiwari
+        </b>
+    </sub>
+</td>
     
  
  </tr>
