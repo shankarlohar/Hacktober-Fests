@@ -301,7 +301,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-    
+   <td align="center">
+<a href="https://github.com/vatsal-agarwal-20">
+    <img src="https://avatars.githubusercontent.com/u/80644981?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Vatsal Agarwal
+        </b>
+    </sub>
+</td> 
     
  
  </tr>
