@@ -29,7 +29,8 @@ body::-webkit-scrollbar-thumb {
 
 #team {
     /* Change this tag color to your choice */
-    background: #8078d6 !important;
+    background: linear-gradient(to right, #f85475, #6f86f8) !important;
+
 }
 
 /* nav{
