@@ -354,7 +354,18 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
- 
+
+ <td align="center">
+<a href="https://github.com/sarcasvik">
+    <img src="https://avatars.githubusercontent.com/u/72884440?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+        Satvik Maheshwari
+        </b>
+    </sub>
+</td>
+
  </tr>
 
 </table>
