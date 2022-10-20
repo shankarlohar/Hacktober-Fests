@@ -411,6 +411,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+<td align="center">
+<a href="https://github.com/Devansh-Walia">
+    <img src="https://avatars.githubusercontent.com/u/57324289?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Devansh walia
+        </b>
+    </sub>
+</td>
 <!-- Add your snippet here -->
   
  </tr>

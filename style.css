@@ -5,6 +5,7 @@ body {
 #team {
   /* Change this tag color to your choice */
   background: pink !important;
+  background: rgb(110, 27, 41) !important;
 }
 
 body::-webkit-scrollbar-track {
