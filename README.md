@@ -377,6 +377,17 @@ Now add this follwing code snippet (with your github username where required.) a
     </sub>
 </td>
   
+  <td align="center">
+<a href="https://github.com/Sejal-shh">
+    <img src="https://avatars.githubusercontent.com/u/92288027?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            SEJAL SHRIVASTAVA
+        </b>
+    </sub>
+</td>
+  
  </tr>
 
 </table>
