@@ -186,6 +186,18 @@ Now add this follwing code snippet (with your github username where required.) a
 </td>
 
 <td align="center">
+<a href="https://github.com/drunkcoder017">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEQu77odbkDqQ/profile-displayphoto-shrink_400_400/0/1615756010213?e=1671667200&v=beta&t=MM27s8-bM78SLsfSkB_HtE55aLPPYg6W-PJ6hDSpS-A" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Charchit Jain
+        </b>
+    </sub>
+</td>
+
+
+<td align="center">
 <a href="https://github.com/VAIBHAVSINGHRAJPUT">
     <img src="https://source.boomplaymusic.com/group10/M00/09/01/e8720a49f8a3497facf8a86d7813c374_200_200.jpg" width="100px;" alt=""/>
     <br />
