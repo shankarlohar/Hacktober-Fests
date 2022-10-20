@@ -1,6 +1,7 @@
 # Hacktober-Fests
 
 ## Hey everyone! below you can learn to contribute to open source 😊.
+
 ## Try improving this Java Snake Game if you already know how to contribute! click -> [🐍](https://github.com/ShankarLohar/snakegame)
 
 ![image](https://user-images.githubusercontent.com/74100292/194773995-a1fab4a5-5847-4553-9cbb-65d0006619f9.png)
@@ -124,11 +125,11 @@ Now add this follwing code snippet (with your github username where required.) a
 
 - Additional Step: You can add something to the website of your own! 😊 or check the issues tab of this repository.
   `You know now how it works. 😉`
-  
+
   ![image](https://user-images.githubusercontent.com/74100292/195403113-226ff7f9-0cb2-4105-bd0f-afd7cbd61579.png)
 
-   [Contributer of the login page](https://github.com/sidhrth04)
-  
+  [Contributer of the login page](https://github.com/sidhrth04)
+
 - Step 6: Check your [HACKTOBERFEST](https://hacktoberfest.com/) page!
 
 ## START CONTRIBUTING 👐
@@ -235,7 +236,7 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-<!-- Add your snippet here -->
+
 <td align="center">
 <a href="https://github.com/Naveen28101">
     <img src="https://avatars.githubusercontent.com/u/110476246?v=4" width="100px;" alt=""/>
@@ -292,6 +293,16 @@ Now add this follwing code snippet (with your github username where required.) a
 </td>
     
 <td align="center">
+<a href="https://github.com/ArbazkhanPathan">
+    <img src="https://avatars.githubusercontent.com/u/74857530?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Arbazkhan Pathan
+        </b>
+    </sub>
+</td>    
+<td align="center">
 <a href="https://github.com/AbhishekTesla">
     <img src="https://scitechdaily.com/images/Cats-Eye-Nebula-NGC-6543.jpg" width="100px;" alt=""/>
     <br />
@@ -301,9 +312,95 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+   <td align="center">
+<a href="https://github.com/vatsal-agarwal-20">
+    <img src="https://avatars.githubusercontent.com/u/80644981?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Vatsal Agarwal
+        </b>
+    </sub>
+</td> 
+<td align="center">
+<a href="https://github.com/AmanTiwari19">
+    <img src="https://avatars.githubusercontent.com/u/114856408?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Aman Tiwari
+        </b>
+    </sub>
+</td>
+  
+<td align="center">
+<a href="https://github.com/Soumyadip-roy">
+    <img src="https://avatars.githubusercontent.com/u/85121861" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Soumyadip Roy
+        </b>
+    </sub>
+</td>
     
-    
+<td align="center">
+<a href="https://github.com/aryankashyap7">
+    <img src="https://avatars.githubusercontent.com/u/75727351?" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Aryan Kashyap
+        </b>
+    </sub>
+</td>
+
+ <td align="center">
+<a href="https://github.com/sarcasvik">
+    <img src="https://avatars.githubusercontent.com/u/72884440?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+        Satvik Maheshwari
+                </b>
+    </sub>
+</td>
  
+<td align="center">
+<a href="https://github.com/KHUSHI2107">
+    <img src="https://avatars.githubusercontent.com/u/65617775" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Khushi Gupta
+        </b>
+    </sub>
+</td>
+
+
+<td align="center">
+<a href="https://github.com/ravithemore">
+    <img src="https://avatars.githubusercontent.com/u/87522195?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Ravi M Damor
+        </b>
+    </sub>
+</td>
+  
+  <td align="center">
+<a href="https://github.com/Sejal-shh">
+    <img src="https://avatars.githubusercontent.com/u/92288027?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            SEJAL SHRIVASTAVA
+        </b>
+    </sub>
+</td>
+<!-- Add your snippet here -->
+  
  </tr>
 
 </table>
