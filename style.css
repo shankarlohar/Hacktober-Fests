@@ -15,7 +15,7 @@ body::-webkit-scrollbar-track {
 } 
 body::-webkit-scrollbar { 
   width: 12px; 
-  background-color: pink; 
+  background-color: purple; 
 } 
 body::-webkit-scrollbar-thumb { 
   border-radius: 10px; 
