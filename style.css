@@ -29,6 +29,7 @@ body::-webkit-scrollbar-thumb {
 
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 /* You can change the background here. 🎨 */
 /* body{
@@ -37,7 +38,7 @@ body::-webkit-scrollbar-thumb {
 
 #team {
     /* Change this tag color to your choice */
-    background: #808080 !important;
+    background: Firebrick !important;
 
 }
 
@@ -50,9 +51,11 @@ body::-webkit-scrollbar-thumb {
 /* New Navbar */
 .navbar {
   background-color: #8400ff;
+  padding: 0;
+  padding-top: 1rem;
 }
 .container-fluid{
-  background-color: black;
+  background-color: #C3A9FF;
   padding: 0;
 }
 .navbar-brand {
@@ -113,6 +116,7 @@ body::-webkit-scrollbar-thumb {
   animation-duration: 10s;
   animation-delay: 1s;
   animation-iteration-count: 3;
+  font-family: 'Roboto', sans-serif;
 }
 
 @keyframes git-ani {
@@ -153,8 +157,11 @@ section .section-title {
 #team .card {
   border: none;
   background: linear-gradient( to right, rgba(245,70,66,0.75), rgba(36, 103, 170, 0.75) );
+  transition: 1s;
 }
-
+#team .card:hover {
+  background: linear-gradient( to right,rgba(36, 103, 170, 0.75) , rgba(245,70,66,0.75) );
+}
 .image-flip:hover .backside,
 .image-flip.hover .backside {
   -webkit-transform: rotateY(0deg);
