@@ -50,9 +50,11 @@ body::-webkit-scrollbar-thumb {
 /* New Navbar */
 .navbar {
   background-color: #8400ff;
+  padding: 0;
+  padding-top: 1rem;
 }
 .container-fluid{
-  background-color: black;
+  background-color: #C3A9FF;
   padding: 0;
 }
 .navbar-brand {
