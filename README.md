@@ -362,10 +362,44 @@ Now add this follwing code snippet (with your github username where required.) a
     <sub>
         <b>
         Satvik Maheshwari
+                </b>
+    </sub>
+</td>
+ 
+<td align="center">
+<a href="https://github.com/KHUSHI2107">
+    <img src="https://avatars.githubusercontent.com/u/65617775" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Khushi Gupta
         </b>
     </sub>
 </td>
 
+
+<td align="center">
+<a href="https://github.com/ravithemore">
+    <img src="https://avatars.githubusercontent.com/u/87522195?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Ravi M Damor
+        </b>
+    </sub>
+</td>
+  
+  <td align="center">
+<a href="https://github.com/Sejal-shh">
+    <img src="https://avatars.githubusercontent.com/u/92288027?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            SEJAL SHRIVASTAVA
+        </b>
+    </sub>
+</td>
+  
  </tr>
 
 </table>
