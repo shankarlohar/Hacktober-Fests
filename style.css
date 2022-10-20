@@ -157,8 +157,11 @@ section .section-title {
 #team .card {
   border: none;
   background: linear-gradient( to right, rgba(245,70,66,0.75), rgba(36, 103, 170, 0.75) );
+  transition: 1s;
 }
-
+#team .card:hover {
+  background: linear-gradient( to right,rgba(36, 103, 170, 0.75) , rgba(245,70,66,0.75) );
+}
 .image-flip:hover .backside,
 .image-flip.hover .backside {
   -webkit-transform: rotateY(0deg);
