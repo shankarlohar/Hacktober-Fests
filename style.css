@@ -29,6 +29,7 @@ body::-webkit-scrollbar-thumb {
 
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 /* You can change the background here. 🎨 */
 /* body{
@@ -115,6 +116,7 @@ body::-webkit-scrollbar-thumb {
   animation-duration: 10s;
   animation-delay: 1s;
   animation-iteration-count: 3;
+  font-family: 'Roboto', sans-serif;
 }
 
 @keyframes git-ani {
