@@ -432,6 +432,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+<td align="center">
+<a href="https://github.com/quangpro1610">
+    <img src="https://avatars.githubusercontent.com/u/26484750?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            QUANG HOANG
+        </b>
+    </sub>
+</td>
 <!-- Add your snippet here -->
   
  </tr>
