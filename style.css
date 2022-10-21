@@ -303,9 +303,9 @@ section .section-title {
 
 
 
-/* ====================
+/*
 Responsive code starts
-==================== */
+ */
 @media (max-width:747px){
   .heading{
     font-size: 15px;
@@ -414,6 +414,7 @@ Responsive code starts
 	color: #24262b;
 	background-color: #ffffff;
 }
+
 
 /* MEDIA QUERIES */
 @media(max-width: 767px){
@@ -526,8 +527,9 @@ h4 {
 }
 .card .content .btn{
   display: block;
-  text-align: left;
-  margin: 10px 0;
+  text-align: center;
+  margin:auto;
+
 }
 .card .content .btn button{
   background: #e74c3c;
@@ -535,7 +537,7 @@ h4 {
   border: none;
   outline: none;
   font-size: 17px;
-  padding: 5px 8px;
+  padding: 5px 10px;
   border-radius: 5px;
   cursor: pointer;
   transition: 0.2s;
