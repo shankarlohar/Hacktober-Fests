@@ -143,6 +143,17 @@ Now add this follwing code snippet (with your github username where required.) a
         <td align="center"><a href="https://github.com/ShankarLohar"><img src="https://avatars.githubusercontent.com/u/74100292?v=4" width="100px;" alt=""/><br /><sub><b>Shankar Lohar</b></sub></td>
         
 <td align="center">
+<a href="https://github.com/Aestivial">
+    <img src="https://avatars.githubusercontent.com/u/69592060?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Nayan Panda
+        </b>
+    </sub>
+</td>
+
+<td align="center">
 <a href="https://github.com/SOURAV416">
     <img src="https://avatars.githubusercontent.com/u/76432187?v=4" width="100px;" alt=""/>
     <br />
@@ -184,6 +195,18 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
+<td align="center">
+<a href="https://github.com/drunkcoder017">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEQu77odbkDqQ/profile-displayphoto-shrink_400_400/0/1615756010213?e=1671667200&v=beta&t=MM27s8-bM78SLsfSkB_HtE55aLPPYg6W-PJ6hDSpS-A" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Charchit Jain
+        </b>
+    </sub>
+</td>
+
 
 <td align="center">
 <a href="https://github.com/VAIBHAVSINGHRAJPUT">
@@ -236,7 +259,7 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-<!-- Add your snippet here -->
+
 <td align="center">
 <a href="https://github.com/Naveen28101">
     <img src="https://avatars.githubusercontent.com/u/110476246?v=4" width="100px;" alt=""/>
@@ -354,6 +377,17 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
+ <td align="center">
+<a href="https://github.com/sarcasvik">
+    <img src="https://avatars.githubusercontent.com/u/72884440?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+        Satvik Maheshwari
+                </b>
+    </sub>
+</td>
  
 <td align="center">
 <a href="https://github.com/KHUSHI2107">
@@ -365,6 +399,40 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
+
+<td align="center">
+<a href="https://github.com/ravithemore">
+    <img src="https://avatars.githubusercontent.com/u/87522195?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Ravi M Damor
+        </b>
+    </sub>
+</td>
+  
+  <td align="center">
+<a href="https://github.com/Sejal-shh">
+    <img src="https://avatars.githubusercontent.com/u/92288027?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            SEJAL SHRIVASTAVA
+        </b>
+    </sub>
+</td>
+<td align="center">
+<a href="https://github.com/Devansh-Walia">
+    <img src="https://avatars.githubusercontent.com/u/57324289?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Devansh walia
+        </b>
+    </sub>
+</td>
+<!-- Add your snippet here -->
   
  </tr>
 
