@@ -1,0 +1,59 @@
+<html>
+<head>
+<title> Student Marksheet</title>
+</head>
+
+<h1> Student Information </h1>
+<br><br>
+<table border="2" cellspacing = "0"  cellpadding = "10px" width="50%" align= "center">
+<tr>
+<td> En. No.</td>
+<td>  NAME </td>
+<td> Python</td>
+<td>  ACP</td>
+<td>  WT</td>
+<td>  DBMS</td>
+</tr>
+<tr>
+<td> 11</td>
+<td> Rajeev</td>
+<td>72 </td>
+<td>80 </td>
+<td>59 </td>
+<td>80 </td>
+</tr>
+<tr>
+<td>1 2</td>
+<td> Suresh</td>
+<td>72 </td>
+<td>66 </td>
+<td>58 </td>
+<td>66 </td>
+</tr>
+<tr>
+<td> 13</td>
+<td> Sreejith</td>
+<td>26</td>
+<td>26 </td>
+<td>77</td>
+<td>77</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Bhakti</td>
+<td>29 </td>
+<td>77</td>
+<td>94 </td>
+<td>70 </td>
+</tr>
+<tr>
+<td>15</td>
+<td> Krishna Dev</td>
+<td>28 </td>
+<td>26 </td>
+<td>25 </td>
+<td>25 </td>
+</tr>
+</table>
+</body>
+</html>
