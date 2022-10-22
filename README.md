@@ -442,6 +442,17 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+  
+<td align="center">
+<a href="https://github.com/prajwolgautam56">
+    <img src="https://twitter.com/Prajwolgautam0/photo" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            QUANG HOANG
+        </b>
+    </sub>
+</td>
 <!-- Add your snippet here -->
   
  </tr>
