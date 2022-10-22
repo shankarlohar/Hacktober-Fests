@@ -324,9 +324,9 @@ section .section-title {
 
 
 
-/* ====================
+/*
 Responsive code starts
-==================== */
+ */
 @media (max-width:747px){
   .heading{
     font-size: 15px;
@@ -484,4 +484,8 @@ Responsive code starts
     .containerr{
         max-width: 1280px;
     }
+
 }
+
+}
+
