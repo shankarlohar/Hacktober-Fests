@@ -152,7 +152,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-
+<td align="center">
+<a href="https://github.com/ManishGhimire127">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFk6YLBdMG3Iw/profile-displayphoto-shrink_200_200/0/1657109670750?e=2147483647&v=beta&t=A67QXx0h4EW79u3sNwG5HOUIKOVzHMj001nrHl0t9p4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            EKRAJ GHIMIRE
+        </b>
+    </sub>
+</td>
 <td align="center">
 <a href="https://github.com/SOURAV416">
     <img src="https://avatars.githubusercontent.com/u/76432187?v=4" width="100px;" alt=""/>
