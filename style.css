@@ -4,7 +4,7 @@ body{
 
 #team {
   /* Change this tag color to your choice */
-  background: #39FF14 !important;
+  background: #1AB7EA !important;
 
 }
 
@@ -160,13 +160,18 @@ section .section-title {
   border: none;
   background: linear-gradient( to right, rgba(97, 226, 97, 0.862), rgba(227, 90, 165, 0.75) );
   transition: 1s;
+  border-radius: 50%;
 }
 #team .card:hover {
   background: linear-gradient( to right,rgba(100, 165, 231, 0.75) , rgba(132, 220, 137, 0.75) );
+  border-radius: 50%;
+
 }
 .image-flip:hover .backside,
 .image-flip.hover .backside {
   -webkit-transform: rotateY(0deg);
+  border-radius: 50%;
+
   -moz-transform: rotateY(0deg);
   -o-transform: rotateY(0deg);
   -ms-transform: rotateY(0deg);
@@ -193,7 +198,12 @@ section .section-title {
   transition: 1s;
   transform-style: preserve-3d;
   position: relative;
+
+
 }
+
+
+
 
 .frontside {
   position: relative;
@@ -201,6 +211,8 @@ section .section-title {
   -ms-transform: rotateY(0deg);
   z-index: 2;
   margin-bottom: 30px;
+  /* border: 1px solid ; */
+  border-radius: 50%;
 }
 
 .backside {
@@ -312,9 +324,9 @@ section .section-title {
 
 
 
-/* 
+/* ====================
 Responsive code starts
-*/
+==================== */
 @media (max-width:747px){
   .heading{
     font-size: 15px;
@@ -355,7 +367,7 @@ Responsive code starts
 .footer{
 	background-color: #24262b;
     padding: 60px 0;
-    margin-top: 6rem;
+    margin-top: 5rem;
 }
 .footer-col{
    width: 25%;
@@ -424,7 +436,6 @@ Responsive code starts
 	background-color: #ffffff;
 }
 
-
 /* MEDIA QUERIES */
 @media(max-width: 767px){
   .footer-col{
@@ -474,85 +485,3 @@ Responsive code starts
         max-width: 1280px;
     }
 }
-
-
-
-/* CARDS CSS */
-
-.issues {
-  color: #000000;
-  padding-left: 12rem;
-  padding-right: 12rem;
-  margin-top: 4rem;
-  font-size: 3em;
-  font-weight: bold;
-  text-align: center;
-}
-
-.slider{
-  max-width: 1500px;
-  display: flex;
-  margin-top:5rem;
-}
-
-h4 {
-  margin-top: 0.8rem;
-  font-size: 1.65em;
-  color: black;
-  font-weight: 500;
-  text-align: center;
-}
-.slider .card{
-  flex: 1;
-  margin: 0 10px;
-  background: #fff;
-}
-.slider .card .img{
-  height: 200px;
-  width: 100%;
-  
-  
-}
-.slider .card .img img{
-  height: 100%;
-  width: 100%;
-  object-fit:contain;
-}
-.slider .card .content{
-  padding: 10px 20px;
-}
-.card .content .title{
-  font-size: 25px;
-  font-weight: 600;
-}
-.card .content .sub-title{
-  font-size: 20px;
-  font-weight: 600;
-  color: #e74c3c;
-  line-height: 20px;
-}
-.card .content p{
-  text-align: justify;
-  margin: 10px 0;
-}
-.card .content .btn{
-  display: block;
-  text-align: center;
-  margin:auto;
-
-}
-.card .content .btn button{
-  background: #e74c3c;
-  color: #fff;
-  border: none;
-  outline: none;
-  font-size: 17px;
-  padding: 5px 10px;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.2s;
-}
-.card .content .btn button:hover{
-  transform: scale(0.9);
-}
-
