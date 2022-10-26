@@ -484,7 +484,16 @@ Now add this follwing code snippet (with your github username where required.) a
     </sub>
 </td
 <!-- Add your snippet here -->
-  
+  <td align="center">
+<a href="https://github.com/TheCodeAlpha26 ">
+    <img src="https://twitter.com/TheCodeAlpha1/photo" width="100px;" alt="Alok Khansali"/>
+    <br />
+    <sub>
+        <b>
+           Alok Khansali
+        </b>
+    </sub>
+</td
  </tr>
 
 </table>
