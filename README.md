@@ -486,7 +486,7 @@ Now add this follwing code snippet (with your github username where required.) a
 <!-- Add your snippet here -->
   <td align="center">
 <a href="https://github.com/TheCodeAlpha26 ">
-    <img src="https://avatars.githubusercontent.com/u/75980074?v=4" width="100px;" alt="Alok Khansali"/>
+    <img src="https://avatars.githubusercontent.com/u/75980074?v=4" width="200px;" alt="Alok Khansali"/>
     <br />
     <sub>
         <b>
